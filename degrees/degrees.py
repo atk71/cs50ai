@@ -120,8 +120,6 @@ def shortest_path(source, target):
         traversed.add(node.state)
 
 
-
-
 def person_id_for_name(name):
     """
     Returns the IMDB id for a person's name,
